@@ -2,6 +2,13 @@
 # and calculate the distance between them, showing four decimal places after the comma, according to the formula:
 # sqrt((x1-x2)² + (y1 - y2)²)
 
+# Input
+# The input file contains two lines of data. The first one contains two double values: x1 y1 and the second one also contains
+# two double values with one digit after the decimal point: x2 y2.
+
+# Output
+# Calculate and print the distance value using the provided formula, with 4 digits after the decimal point.
+
 import math
 
 x1,x2,y1,y2 = map(float, input().split(" "))

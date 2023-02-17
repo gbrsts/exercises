@@ -10,5 +10,6 @@
 # Follow an example with 5 men and step 2: In this example the remaining element is 3.
 
 # The data must be read from standard input.
+
 # Output
 # For each test case we will have an output line, presenting in the following format: Case n: m always with a space before n and m.

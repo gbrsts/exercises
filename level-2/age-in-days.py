@@ -2,3 +2,9 @@
 # followed by its respective message “ano(s)”, “mes(es)”, “dia(s)”.
 # Note: only to facilitate the calculation, consider the whole year with 365 days and 30 days every month. 
 # In the cases of test there will never be a situation that allows 12 months and some days, like 360, 363 or 364. 
+
+# Input
+# The input file contains 1 integer value.
+
+# Output
+# Print the output, like the following example.

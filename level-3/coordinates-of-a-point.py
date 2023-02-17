@@ -3,6 +3,12 @@
 # If the point is at the origin, write the message "Origem".
 # If the point is at X axis write "Eixo X", else if the point is at Y axis write "Eixo Y"
 
+# Input
+# The input contains the coordinates of a point.
+
+# Output
+# The output should display the quadrant in which the point is.
+
 x,y = map(float, input().split(" "))
 
 if x > 0 and y > 0:

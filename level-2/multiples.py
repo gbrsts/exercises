@@ -3,4 +3,10 @@
 # If it is not possible, calculate the area of the trapezium which basis A and B and C as height, and print the message:
 # Area = XX.X
 
+# Input
+# The input has two integer numbers.
+
+# Output
+# Print the relative message to the input as stated above.
+
 a,b = map(int, input().split(" "))

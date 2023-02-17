@@ -4,3 +4,9 @@
 # The symbol '(' represents greather than. For example:
 # [0,25] indicates numbers between 0 and 25.0000, including both.
 # (25,50] indicates numbers greather than 25 (25.00001) up to 50.0000000.
+
+# Input
+# The input file contains a floating-point number.
+
+# Output
+# The output must be a message like following example.
