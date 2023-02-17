@@ -14,3 +14,4 @@
 
 # Output
 # For each test case print a number -- the maximum number of critical points that can be included in a curve drawn from the given points.
+
